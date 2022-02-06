@@ -1,7 +1,7 @@
 use wasm_bindgen::prelude::*;
 
 #[wasm_bindgen]
-extern alert {
+extern "C" {
     pub fn alert(s: &str);
 }
 
