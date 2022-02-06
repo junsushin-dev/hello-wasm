@@ -2,7 +2,7 @@
 name = "hello-wasm"
 version = "0.1.0"
 edition = "2021"
-authors = ["Junsu Shin <junsushin4546@gmail.com>]
+authors = ["Junsu Shin <junsushin4546@gmail.com>"]
 license = "MIT/Apache-2.0"
 repository = "https://github.com/junsushin-dev/hello-wasm"
 edition = "2022"
